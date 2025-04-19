@@ -1,45 +1,36 @@
-Privacy Policy — BatteryAlert
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Privacy Policy</title>
+</head>
+<body>
+  <h1>Privacy Policy for Battery Alert</h1>
+  <p><strong>Effective date:</strong> April 19, 2025</p>
 
-Effective Date: April 19, 2025
+  <p>Battery Alert ("we", "our", or "us") does not collect, use, or share any personal data of its users.</p>
 
-BatteryAlert ("we", "our", or "the App") is committed to protecting your privacy. This privacy policy outlines what data we collect and how we use it.
-📱 Information We Collect
+  <h2>Information Collection and Use</h2>
+  <p>Battery Alert operates entirely offline and does not request or store any personal information or user identifiers.</p>
+  <p>The app only uses system information about your device's battery status to provide alerts when the battery level is low, as configured by the user.</p>
 
-BatteryAlert does not collect or store any personally identifiable information.
+  <h2>Permissions</h2>
+  <p>We request the following permissions solely for functionality:</p>
+  <ul>
+    <li><strong>FOREGROUND_SERVICE:</strong> To keep the app running in the background and listen for battery events.</li>
+    <li><strong>POST_NOTIFICATIONS:</strong> To notify users when the battery level is low.</li>
+  </ul>
 
-However, to function properly, the app may access:
+  <h2>Data Sharing</h2>
+  <p>Battery Alert does not share any information with third parties.</p>
 
-    Battery level information (to monitor device charge)
+  <h2>Children's Privacy</h2>
+  <p>Our app does not target anyone under the age of 13. We do not knowingly collect personally identifiable information from children under 13.</p>
 
-    Foreground service permission (for alert functionality)
+  <h2>Changes to This Policy</h2>
+  <p>We may update this policy from time to time. Any changes will be reflected on this page with an updated effective date.</p>
 
-    Media playback (to play low battery sound alert)
-
-This information is used locally on your device only and is not shared or transmitted anywhere.
-🔐 Permissions Used
-
-The app requests the following Android permissions:
-
-    android.permission.FOREGROUND_SERVICE — to run background alert service
-
-    android.permission.MEDIA_PLAYBACK — to play sound when battery is low
-
-    android.permission.POST_NOTIFICATIONS — to notify user of alerts
-
-All permissions are used solely for core app functionality.
-🌍 Data Sharing
-
-We do not share, sell, or transfer any user data to third parties.
-📦 Third-Party Services
-
-BatteryAlert does not use any third-party analytics or advertising SDKs.
-🛡️ Your Rights
-
-Since BatteryAlert does not collect personal data, there is no data to request, correct, or delete.
-📩 Contact
-
-If you have questions about this policy, you can reach us at:
-paulkart.tube@gmail.com
-📄 Updates to This Policy
-
-We may update this privacy policy in the future. Any changes will be reflected on this page.
+  <h2>Contact Us</h2>
+  <p>If you have any questions or suggestions about this Privacy Policy, feel free to contact us at <a href="mailto:paulkart.tube@gmail.com">paulkart.tube@gmail.com</a>.</p>
+</body>
+</html>
